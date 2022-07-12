@@ -1,7 +1,7 @@
 
 /* homepage */
 .homepage{
-    background-image: url(/img/nitjsr.png);
+    background-image: url(/img/nitdgp.png);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: 240vh;
@@ -10,15 +10,14 @@
 }
 #homepage-text{
     border: 0em;
-    position: absolute;
+    position: relative;
     top: 20%;
-    left: 50%;
+    left: 70%;
     transform: translate(-50%, -50%);
     font-size: 55px;
-    background-color: rgba(0, 255, 255, 0.199);
     padding:5px ;
     border-radius: 5px;
-    color: rgb(226, 79, 10);
+    color: rgb(10, 226, 82);
     
 }
 
